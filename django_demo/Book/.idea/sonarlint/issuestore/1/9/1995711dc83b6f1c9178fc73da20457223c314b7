@@ -1,0 +1,8 @@
+
+Lpython:S1313"0Make this IP "10.0.20.216" address configurable.(òƒ²}8òšÜ„ß,
+Rpython:S1313"0Make this IP "10.0.20.220" address configurable.(¿¸Ôüÿÿÿÿ8àÊøıŞ,
+mpython:S101"ORename class "nsqMonitor" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(½§‘‹8Ö–ƒ„ß,
+;python:S125"Remove this commented out code.(üéÅü8Æ‚„ß,
+Bpython:S1481"%Remove the unused local variable "g".(ÀÍò”8ÊÇà„ß,
+Bpython:S125/"Remove this commented out code.(ì€ìïşÿÿÿÿ8²»ì„ß,
+Kpython:S1481("'Remove the unused local variable "tmp".(±èºùÿÿÿÿ8²»ì„ß,
